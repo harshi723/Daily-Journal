@@ -1,5 +1,6 @@
-# blog site
-Nodejs, Express, MongoDB and Ejs
+# Daily Journal
+
+>Preview
 
 ![Screenshot (279)](https://user-images.githubusercontent.com/72163561/157436959-2c30f0c6-9732-47c8-b396-066eff6319b1.png)
 
