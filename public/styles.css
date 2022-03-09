@@ -1,0 +1,22 @@
+.right {
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 2em;
+}
+
+.right a {
+  margin: 0 0.5em;
+}
+
+.main {
+  padding: 2rem;
+}
+
+h1,
+h2 {
+  margin: 0.75rem 0;
+}
+
+p {
+  margin-bottom: 2rem;
+}
